@@ -1,0 +1,164 @@
+body{
+		padding: 7%;
+		
+	}
+	
+
+	
+
+	form { 
+	margin: 0 auto; 
+	width:250px;
+	padding: 0;
+	}
+	
+
+	.inlineButton {
+		display: inline;
+		padding: 1%;
+		
+	}
+	
+
+	.weatherInfo{
+		border:solid;
+		border-color:grey;
+		width: 500px;
+		margin: 0 auto;
+	}
+	
+
+	.inlineButtonDiv {
+		margin: 0 auto;
+		width: 30%;
+		padding: 1%;
+		display: flex;
+		justify-content: space-around;
+	}
+	
+
+	.weatherImg {
+		margin: 0 auto;
+		width: 30%;
+		display: flex;
+		justify-content: space-around;
+	}
+	
+
+	h3 {
+		color:black;
+	    margin: 0 auto; 
+		width:500px;
+		text-align: center;
+	}
+	
+
+	h1 {
+	    margin: 0 auto; 
+		width:500px;
+		text-align: center;
+		padding: 1%;
+	}
+	
+
+	h4 {
+	    margin: 0 auto; 
+		width:500px;
+		text-align: center;
+	
+	}
+	
+	
+	h6 {
+	    margin: 0 auto; 
+		max-width:650px;
+		text-align: center;
+		padding: 0.5%;
+	}
+	
+	h7 {
+	    margin: 0 auto; 
+		width:500px;
+		text-align: center;
+	
+	}
+	
+
+	table{
+		border: solid;
+		border-color:black;
+	}
+	
+
+	h2 {
+	    margin: 0 auto; 
+		width:500px;
+		text-align: center;
+	}
+	
+
+	p {
+	    margin: 0 auto; 
+		width:500px;
+		text-align: center;
+		font-color: black;
+	}
+	
+
+	.weatherImg {
+		display: block;
+	    margin-left: auto;
+	    margin-right: auto;
+	    width: 100px;
+		display: flex;
+		justify-content: space-around;
+	}
+	
+
+	img{
+		padding:15px;
+		
+	}
+	
+
+	
+
+	table {
+	    margin: 0 auto; 
+		width:500px;
+	}
+	
+
+	.existingUserLoginForm{
+		padding: 2%;
+	}
+	
+
+	.getCityDiv{
+		padding: 3%;
+	}
+	
+	
+	.blockButtonDiv {
+		margin: 0 auto;
+		width: 30%;
+		padding: 1%;
+		
+	}
+	
+	.blockButton{
+		padding: 0.5%;
+		margin: 0 auto;
+		
+	}
+
+	.closetAndHamp{
+		padding: 1%;
+	}
+	
+	.itemInputDiv{
+		color: black;
+	
+	
+	}
+
